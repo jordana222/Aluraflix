@@ -1,1 +1,14 @@
+body {
+    color:blueviolet;
+    background: white;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(255, 255, 255);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+    
+}
 
