@@ -1,19 +1,19 @@
 body {
     color:blueviolet;
-    background: white;
+    background: rgb(0, 0, 0);
     margin: 0px;
 }
 
 header {
-    border-bottom: solid 2px rgb(138, 43, 226);
+    border-bottom: solid 2px rgb rgb(231, 231, 231);
     padding: 20px;
     font-size: 32px;
-    color: rgb(255, 255, 255);
+    color: rgb blueviolet;
     
 }
 
 section {
-    background: rgb(138,43,226);
+    background: rgb rgb(59, 59, 59);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
